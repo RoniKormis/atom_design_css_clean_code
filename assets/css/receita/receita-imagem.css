@@ -1,0 +1,4 @@
+.receita__imagem {
+    height: 250px;
+    object-fit: cover;
+}
